@@ -1,59 +1,19 @@
-2024-10-29 08:59:10,383 - INFO - Inicio de la operación de escritura.
-2024-10-29 08:59:10,383 - INFO - Intentando escribir en el archivo datos.txt
-2024-10-29 08:59:10,384 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
-2024-10-29 08:59:10,385 - INFO - Escritura finalizada.
-2024-10-29 08:59:10,385 - INFO - Inicio de la operación de lectura.
-2024-10-29 08:59:10,385 - INFO - Intentando leer el archivo datos.txt
-2024-10-29 08:59:10,385 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
-2024-10-29 08:59:10,385 - INFO - Contenido leído exitosamente.
-2024-10-29 08:59:10,385 - INFO - Lectura finalizada.
-2024-10-29 08:59:10,386 - INFO - Archivo datos.txt eliminado después de la operación
-2024-10-29 08:59:16,178 - INFO - Inicio de la operación de escritura.
-2024-10-29 08:59:16,189 - INFO - Intentando escribir en el archivo datos.txt
-2024-10-29 08:59:16,190 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
-2024-10-29 08:59:16,190 - INFO - Escritura finalizada.
-2024-10-29 08:59:16,190 - INFO - Inicio de la operación de lectura.
-2024-10-29 08:59:16,190 - INFO - Intentando leer el archivo datos.txt
-2024-10-29 08:59:16,191 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
-2024-10-29 08:59:16,191 - INFO - Contenido leído exitosamente.
-2024-10-29 08:59:16,191 - INFO - Lectura finalizada.
-2024-10-29 08:59:16,191 - INFO - Archivo datos.txt eliminado después de la operación
-2024-10-29 08:59:18,049 - INFO - Inicio de la operación de escritura.
-2024-10-29 08:59:18,049 - INFO - Intentando escribir en el archivo datos.txt
-2024-10-29 08:59:18,050 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
-2024-10-29 08:59:18,051 - INFO - Escritura finalizada.
-2024-10-29 08:59:18,051 - INFO - Inicio de la operación de lectura.
-2024-10-29 08:59:18,051 - INFO - Intentando leer el archivo datos.txt
-2024-10-29 08:59:18,051 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
-2024-10-29 08:59:18,051 - INFO - Contenido leído exitosamente.
-2024-10-29 08:59:18,051 - INFO - Lectura finalizada.
-2024-10-29 08:59:18,052 - INFO - Archivo datos.txt eliminado después de la operación
-2024-10-29 08:59:22,313 - INFO - Inicio de la operación de escritura.
-2024-10-29 08:59:22,313 - INFO - Intentando escribir en el archivo datos.txt
-2024-10-29 08:59:22,314 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
-2024-10-29 08:59:22,315 - INFO - Escritura finalizada.
-2024-10-29 08:59:22,315 - INFO - Inicio de la operación de lectura.
-2024-10-29 08:59:22,315 - INFO - Intentando leer el archivo datos.txt
-2024-10-29 08:59:22,315 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
-2024-10-29 08:59:22,315 - INFO - Contenido leído exitosamente.
-2024-10-29 08:59:22,315 - INFO - Lectura finalizada.
-2024-10-29 08:59:22,316 - INFO - Archivo datos.txt eliminado después de la operación
-2024-10-29 09:00:35,423 - INFO - Inicio de la operación de escritura.
-2024-10-29 09:00:35,423 - INFO - Intentando escribir en el archivo datos.txt
-2024-10-29 09:00:35,424 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
-2024-10-29 09:00:35,424 - INFO - Escritura finalizada.
-2024-10-29 09:00:35,424 - INFO - Inicio de la operación de lectura.
-2024-10-29 09:00:35,424 - INFO - Intentando leer el archivo datos.txt
-2024-10-29 09:00:35,425 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
-2024-10-29 09:00:35,425 - INFO - Contenido leído exitosamente.
-2024-10-29 09:00:35,425 - INFO - Lectura finalizada.
-2024-10-29 09:00:35,426 - INFO - Archivo datos.txt eliminado después de la operación
-2024-10-29 09:01:18,396 - INFO - Inicio de la operación de escritura.
-2024-10-29 09:01:18,396 - INFO - Intentando escribir en el archivo datos.txt
-2024-10-29 09:01:18,396 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
-2024-10-29 09:01:18,397 - INFO - Escritura finalizada.
-2024-10-29 09:01:18,397 - INFO - Inicio de la operación de lectura.
-2024-10-29 09:01:18,397 - INFO - Intentando leer el archivo datos.txt
-2024-10-29 09:01:18,397 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
-2024-10-29 09:01:18,397 - INFO - Contenido leído exitosamente.
-2024-10-29 09:01:18,397 - INFO - Lectura finalizada.
+2024-10-30 18:26:09,683 - INFO - Inicio de la operación de escritura.
+2024-10-30 18:26:09,684 - INFO - Intentando escribir en el archivo datos.txt
+2024-10-30 18:26:09,703 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
+2024-10-30 18:26:09,704 - INFO - Escritura finalizada.
+2024-10-30 18:26:09,704 - INFO - Inicio de la operación de lectura.
+2024-10-30 18:26:09,704 - INFO - Intentando leer el archivo datos.txt
+2024-10-30 18:26:09,710 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
+2024-10-30 18:26:09,711 - INFO - Contenido leído exitosamente.
+2024-10-30 18:26:09,711 - INFO - Lectura finalizada.
+2024-10-30 18:36:55,582 - INFO - Gabriel Guzmán
+2024-10-30 18:36:55,583 - INFO - Inicio de la operación de escritura.
+2024-10-30 18:36:55,583 - INFO - Intentando escribir en el archivo datos.txt
+2024-10-30 18:36:55,585 - DEBUG - Contenido escrito: Este es un ejemplo de contenido.
+2024-10-30 18:36:55,585 - INFO - Escritura finalizada.
+2024-10-30 18:36:55,585 - INFO - Inicio de la operación de lectura.
+2024-10-30 18:36:55,585 - INFO - Intentando leer el archivo datos.txt
+2024-10-30 18:36:55,589 - DEBUG - Contenido leído: Este es un ejemplo de contenido.
+2024-10-30 18:36:55,591 - INFO - Contenido leído exitosamente.
+2024-10-30 18:36:55,591 - INFO - Lectura finalizada.

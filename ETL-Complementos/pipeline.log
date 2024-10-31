@@ -1,22 +1,11 @@
-2024-10-29 09:16:39,588 - INFO - Iniciando el pipeline de datos.
-2024-10-29 09:16:39,589 - INFO - Iniciando ingesta de datos.
-2024-10-29 09:16:39,591 - INFO - Datos ingresados: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-2024-10-29 09:16:39,592 - INFO - Filtrando números pares.
-2024-10-29 09:16:39,593 - INFO - Números pares: [2, 4, 6, 8, 10]
-2024-10-29 09:16:39,594 - INFO - Multiplicando cada número por 2.
-2024-10-29 09:16:39,595 - INFO - Datos multiplicados: [4, 8, 12, 16, 20]
-2024-10-29 09:16:39,596 - INFO - Calculando estadísticas de los datos.
-2024-10-29 09:16:39,598 - INFO - Estadísticas calculadas: {'suma': 60, 'promedio': 12.0}
-2024-10-29 09:16:39,600 - INFO - Mostrando datos finales y estadísticas.
-2024-10-29 09:16:39,601 - INFO - Pipeline completado.
-2024-10-29 09:16:39,588 - INFO - Iniciando el pipeline de datos.
-2024-10-29 09:16:39,589 - INFO - Iniciando ingesta de datos.
-2024-10-29 09:16:39,591 - INFO - Datos ingresados: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-2024-10-29 09:16:39,592 - INFO - Filtrando números pares.
-2024-10-29 09:16:39,593 - INFO - Números pares: [2, 4, 6, 8, 10]
-2024-10-29 09:16:39,594 - INFO - Multiplicando cada número por 2.
-2024-10-29 09:16:39,595 - INFO - Datos multiplicados: [4, 8, 12, 16, 20]
-2024-10-29 09:16:39,596 - INFO - Calculando estadísticas de los datos.
-2024-10-29 09:16:39,598 - INFO - Estadísticas calculadas: {'suma': 60, 'promedio': 12.0}
-2024-10-29 09:16:39,600 - INFO - Mostrando datos finales y estadísticas.
-2024-10-29 09:16:39,601 - INFO - Pipeline completado.
+2024-10-30 18:58:01,566 - INFO - Iniciando el pipeline de datos.
+2024-10-30 18:58:01,568 - INFO - Iniciando ingesta de datos.
+2024-10-30 18:58:01,570 - INFO - Datos ingresados: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+2024-10-30 18:58:01,571 - INFO - Filtrando números pares.
+2024-10-30 18:58:01,572 - INFO - Números pares: [2, 4, 6, 8, 10]
+2024-10-30 18:58:01,573 - INFO - Multiplicando cada número por 2.
+2024-10-30 18:58:01,575 - INFO - Datos multiplicados: [4, 8, 12, 16, 20]
+2024-10-30 18:58:01,575 - INFO - Calculando estadísticas de los datos.
+2024-10-30 18:58:01,576 - INFO - Estadísticas calculadas: {'suma': 60, 'promedio': 12.0}
+2024-10-30 18:58:01,577 - INFO - Mostrando datos finales y estadísticas.
+2024-10-30 18:58:01,578 - INFO - Pipeline completado.

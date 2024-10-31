@@ -1,6 +1,6 @@
-2024-10-29 09:03:35,064 - INFO - Inicio de la operación para obtener y escribir el nombre de la computadora.
-2024-10-29 09:03:35,064 - INFO - Nombre de la computadora obtenido: LANRKD003837438
-2024-10-29 09:03:35,064 - INFO - Intentando escribir el nombre de la computadora en el archivo nombre_pc.txt
-2024-10-29 09:03:35,065 - DEBUG - Nombre de la computadora escrito: LANRKD003837438
-2024-10-29 09:03:35,065 - INFO - Operación finalizada exitosamente.
-2024-10-29 09:03:35,065 - INFO - Proceso terminado.
+2024-10-30 18:31:57,836 - INFO - Inicio de la operación para obtener y escribir el nombre de la computadora.
+2024-10-30 18:31:57,837 - INFO - Nombre de la computadora obtenido: 02B5CD211D6S7
+2024-10-30 18:31:57,837 - INFO - Intentando escribir el nombre de la computadora en el archivo nombre_pc.txt
+2024-10-30 18:31:57,839 - DEBUG - Nombre de la computadora escrito: 02B5CD211D6S7
+2024-10-30 18:31:57,839 - INFO - Operación finalizada exitosamente.
+2024-10-30 18:31:57,839 - INFO - Proceso terminado.
