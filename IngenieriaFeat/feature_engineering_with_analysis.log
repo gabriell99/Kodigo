@@ -1,0 +1,44 @@
+2024-11-01 15:41:08,993 - INFO - DataFrame inicial:
+2024-11-01 15:41:08,999 - INFO - Convertido 'Fecha_Registro' a formato datetime.
+2024-11-01 15:41:09,002 - INFO - Creada la columna 'Dias_Desde_Registro':
+  Fecha_Registro  Dias_Desde_Registro
+0     2022-01-01                 1035
+1     2021-12-15                 1052
+2     2021-10-20                 1108
+3     2022-02-10                  995
+4     2022-03-05                  972
+2024-11-01 15:41:09,006 - INFO - Codificación One-Hot realizada para la columna 'Genero':
+   Genero_F  Genero_M
+0       0.0       1.0
+1       1.0       0.0
+2       1.0       0.0
+3       0.0       1.0
+4       0.0       1.0
+2024-11-01 15:41:09,012 - INFO - Normalización y estandarización realizadas:
+   Ingreso_Mensual  Ingreso_Normalizado  Edad  Edad_Estandarizada
+0             5000                  0.0    25           -1.293993
+1             7000                  0.2    30           -0.754829
+2            10000                  0.5    45            0.862662
+3            12000                  0.7    35           -0.215666
+4            15000                  1.0    50            1.401826
+2024-11-01 15:41:09,016 - INFO - Características de fecha extraídas: 'Mes_Registro' y 'Anio_Registro'.
+  Fecha_Registro  Mes_Registro  Anio_Registro
+0     2022-01-01             1           2022
+1     2021-12-15            12           2021
+2     2021-10-20            10           2021
+3     2022-02-10             2           2022
+4     2022-03-05             3           2022
+2024-11-01 15:41:09,019 - INFO - Análisis de correlación con 'Gasto_Anual' como variable objetivo.
+2024-11-01 15:41:09,021 - INFO - Correlaciones con 'Gasto_Anual':
+Edad                   9.930438e-01
+Ingreso_Mensual        8.909145e-01
+Fecha_Registro         1.429896e-01
+Dias_Desde_Registro   -1.429896e-01
+Genero_F               4.070642e-17
+Genero_M              -4.070642e-17
+Ingreso_Normalizado    8.909145e-01
+Edad_Estandarizada     9.930438e-01
+Mes_Registro           3.898998e-02
+Anio_Registro          1.221193e-13
+Name: Gasto_Anual, dtype: float64
+2024-11-01 15:41:09,024 - INFO - Atributos relevantes seleccionados (correlación >= 0.1): ['Edad', 'Ingreso_Mensual', 'Fecha_Registro', 'Dias_Desde_Registro', 'Ingreso_Normalizado', 'Edad_Estandarizada']

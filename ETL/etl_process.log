@@ -1,0 +1,71 @@
+2024-10-30 19:12:17,453 - INFO - Estableciendo conexión con la base de datos.
+2024-10-30 19:12:18,329 - INFO - Ejecutando consulta SQL.
+2024-10-30 19:12:19,109 - INFO - Consulta ejecutada exitosamente y resultados obtenidos.
+2024-10-30 19:12:19,114 - INFO - DataFrame creado a partir de los resultados.
+2024-10-30 19:12:19,117 - INFO - Columna 'is_active' transformada a booleano.
+2024-10-30 19:12:19,119 - INFO - Analizando la cardinalidad de las variables categóricas.
+2024-10-30 19:12:19,121 - INFO - iata: 3372 categorías únicas.
+2024-10-30 19:12:19,122 - INFO - airport: 3233 categorías únicas.
+2024-10-30 19:12:19,124 - INFO - city: 2672 categorías únicas.
+2024-10-30 19:12:19,125 - INFO - state: 56 categorías únicas.
+2024-10-30 19:12:19,126 - INFO - country: 5 categorías únicas.
+2024-10-30 19:12:19,127 - INFO - Verificando la normalidad de la columna 'num_carriers'.
+2024-10-30 19:12:19,130 - INFO - Prueba de Shapiro-Wilk completada: Estadístico=0.9564688446927009, p-valor=1.2614164683348012e-30
+2024-10-30 19:12:19,141 - INFO - Prueba de Kolmogorov-Smirnov completada: Estadístico=0.059809650675222426, p-valor=6.293053221006932e-11
+2024-10-30 19:12:19,142 - INFO - La columna 'num_carriers' no sigue una distribución normal.
+2024-10-30 19:12:19,192 - INFO - One-Hot Encoding aplicado a las variables categóricas.
+2024-10-30 19:12:19,207 - INFO - Frequency Encoding aplicado a las variables categóricas.
+2024-10-30 19:12:19,208 - INFO - Columna de target simulada agregada para Target Encoding.
+2024-10-30 19:12:19,226 - INFO - Target Encoding aplicado a las variables categóricas.
+2024-10-30 19:12:19,228 - INFO - Conexión con la base de datos cerrada.
+2024-10-30 19:25:04,718 - INFO - Iniciando proceso ETL.
+2024-10-30 19:25:04,719 - INFO - Estableciendo conexión con la base de datos.
+2024-10-30 19:25:05,595 - INFO - Ejecutando consulta SQL.
+2024-10-30 19:25:06,393 - INFO - DataFrame creado a partir de los resultados.
+2024-10-30 19:25:06,395 - INFO - Conexión con la base de datos cerrada.
+2024-10-30 19:25:06,397 - INFO - Transformando columna 'is_active' a booleano.
+2024-10-30 19:25:06,399 - INFO - Verificando normalidad de la columna 'num_carriers'.
+2024-10-30 19:25:06,410 - INFO - Prueba de Shapiro-Wilk: Estadístico=0.9564688446927009, p-valor=1.2614164683348012e-30
+2024-10-30 19:25:06,412 - INFO - Prueba de Kolmogorov-Smirnov: Estadístico=0.059809650675222426, p-valor=6.293053221006932e-11
+2024-10-30 19:25:06,414 - INFO - La columna 'num_carriers' no sigue una distribución normal.
+2024-10-30 19:25:06,416 - INFO - Aplicando One-Hot Encoding a las variables categóricas.
+2024-10-30 19:25:06,483 - INFO - DataFrame después de One-Hot Encoding: 9343 columnas.
+2024-10-30 19:25:06,484 - INFO - Aplicando Frequency Encoding a las variables categóricas.
+2024-10-30 19:25:06,501 - INFO - DataFrame después de Frequency Encoding: 10 columnas.
+2024-10-30 19:25:06,506 - INFO - Aplicando Target Encoding a las variables categóricas.
+2024-10-30 19:25:06,557 - INFO - DataFrame después de Target Encoding: 10 columnas.
+2024-10-30 19:25:06,559 - INFO - Proceso ETL completado.
+2024-10-30 19:35:58,335 - INFO - Iniciando proceso ETL.
+2024-10-30 19:35:58,336 - INFO - Estableciendo conexión con la base de datos.
+2024-10-30 19:35:59,188 - INFO - Ejecutando consulta SQL.
+2024-10-30 19:35:59,968 - INFO - DataFrame creado a partir de los resultados.
+2024-10-30 19:35:59,969 - INFO - Conexión con la base de datos cerrada.
+2024-10-30 19:35:59,970 - INFO - Transformando columna 'is_active' a booleano.
+2024-10-30 19:35:59,973 - INFO - Verificando normalidad de la columna 'num_carriers'.
+2024-10-30 19:35:59,981 - INFO - Prueba de Shapiro-Wilk: Estadístico=0.9564688446927009, p-valor=1.2614164683348012e-30
+2024-10-30 19:35:59,983 - INFO - Prueba de Kolmogorov-Smirnov: Estadístico=0.059809650675222426, p-valor=6.293053221006932e-11
+2024-10-30 19:35:59,983 - INFO - La columna 'num_carriers' no sigue una distribución normal.
+2024-10-30 19:35:59,985 - INFO - Aplicando One-Hot Encoding a las variables categóricas.
+2024-10-30 19:36:00,039 - INFO - DataFrame después de One-Hot Encoding: 9343 columnas.
+2024-10-30 19:36:00,041 - INFO - Aplicando Frequency Encoding a las variables categóricas.
+2024-10-30 19:36:00,057 - INFO - DataFrame después de Frequency Encoding: 10 columnas.
+2024-10-30 19:36:00,058 - INFO - Aplicando Target Encoding a las variables categóricas.
+2024-10-30 19:36:00,088 - INFO - DataFrame después de Target Encoding: 10 columnas.
+2024-10-30 19:36:00,089 - INFO - Proceso ETL completado.
+2024-10-30 19:37:51,334 - INFO - Iniciando proceso ETL.
+2024-10-30 19:37:51,334 - INFO - Estableciendo conexión con la base de datos.
+2024-10-30 19:37:52,194 - INFO - Ejecutando consulta SQL.
+2024-10-30 19:37:53,001 - INFO - DataFrame creado a partir de los resultados.
+2024-10-30 19:37:53,002 - INFO - Conexión con la base de datos cerrada.
+2024-10-30 19:37:53,003 - INFO - Transformando columna 'is_active' a booleano.
+2024-10-30 19:37:53,005 - INFO - Verificando normalidad de la columna 'num_carriers'.
+2024-10-30 19:37:53,012 - INFO - Prueba de Shapiro-Wilk: Estadístico=0.9564688446927009, p-valor=1.2614164683348012e-30
+2024-10-30 19:37:53,012 - INFO - Prueba de Kolmogorov-Smirnov: Estadístico=0.059809650675222426, p-valor=6.293053221006932e-11
+2024-10-30 19:37:53,012 - INFO - La columna 'num_carriers' no sigue una distribución normal.
+2024-10-30 19:37:53,013 - INFO - Aplicando One-Hot Encoding a las variables categóricas.
+2024-10-30 19:37:53,050 - INFO - DataFrame después de One-Hot Encoding: 9343 columnas.
+2024-10-30 19:37:53,051 - INFO - Aplicando Frequency Encoding a las variables categóricas.
+2024-10-30 19:37:53,061 - INFO - DataFrame después de Frequency Encoding: 10 columnas.
+2024-10-30 19:37:53,062 - INFO - Aplicando Target Encoding a las variables categóricas.
+2024-10-30 19:37:53,075 - INFO - DataFrame después de Target Encoding: 10 columnas.
+2024-10-30 19:37:53,075 - INFO - Proceso ETL completado.

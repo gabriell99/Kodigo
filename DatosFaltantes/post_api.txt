@@ -1,0 +1,23 @@
+http://127.0.0.1:5000/predict
+
+Content-Type
+application/json
+
+{
+  "age": 25,
+  "job": "blue-collar",
+  "marital": "married",
+  "education": "secondary",
+  "default": "no",
+  "balance": 10000,
+  "housing": "yes",
+  "loan": "yes",
+  "contact": "cellular",
+  "day": 5,
+  "month": "may",
+  "duration": 250,
+  "campaign": 1,
+  "pdays": -1,
+  "previous": 0,
+  "poutcome": "unknown"
+}
