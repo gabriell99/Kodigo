@@ -1,7 +1,8 @@
-2024-11-01 15:41:46,496 - INFO - DataFrame inicial con posibles outliers:
-2024-11-01 15:41:46,510 - INFO - Valores atípicos detectados:
+2024-11-01 19:39:26,040 - INFO - Nombre: Gabriel Guzmán
+2024-11-01 19:39:26,042 - INFO - DataFrame inicial con posibles outliers:
+2024-11-01 19:39:26,058 - INFO - Valores atípicos detectados:
      Ingresos
 100   20000.0
 101   22000.0
 102   25000.0
-2024-11-01 15:41:46,512 - INFO - DataFrame después del tratamiento de outliers (reemplazo con percentil 95):
+2024-11-01 19:39:26,063 - INFO - DataFrame después del tratamiento de outliers (reemplazo con percentil 95):
